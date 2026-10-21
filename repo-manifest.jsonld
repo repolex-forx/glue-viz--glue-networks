@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-networks/commit/a59cb1858e9a4bab65e749d8573f69adc5c69bd8",
       "git:hexsha": "a59cb1858e9a4bab65e749d8573f69adc5c69bd8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
