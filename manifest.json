@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-networks",
+  "versions": [
+    {
+      "commit": "a59cb1858e9a4bab65e749d8573f69adc5c69bd8",
+      "parsed_at": "2026-10-21T21:26:52.798820+00:00",
+      "filetree": "filetree/a59cb1858e9a4bab65e749d8573f69adc5c69bd8.nq.gz",
+      "blobs": [
+        "blob/dd03c42f04d9f702cbb5195bbd872a699f2e1d6a.nq.gz",
+        "blob/76fe15da520fb89b10ff5edfa8e58614a99c80dd.nq.gz",
+        "blob/e812ca93872683d872b78e0736220552a4d9ed49.nq.gz",
+        "blob/d2c4023263212dda7cfc6d42a74f7aa55e701513.nq.gz",
+        "blob/47b46142912370a8dcbbd5337fdd1b52e81c8614.nq.gz",
+        "blob/b29d8f6fc437020e9e2fc3ba534b96739cf20b50.nq.gz",
+        "blob/2c49e15f5f3d941dfeda7f8b8b1b4dda7f8e93ae.nq.gz",
+        "blob/131d913ccb478874f8536cf0ee9bed419a387d15.nq.gz",
+        "blob/de3cd94d005cb6c4b5f533ae5bba970bbff5082b.nq.gz",
+        "blob/fe09f78a8e09f60a7c21178b856f935f4f3b272f.nq.gz",
+        "blob/c15a99bfd33ee767051226a2d27bb7426b0b50de.nq.gz",
+        "blob/15ae24368f87ffdb153fe5a356b4bc199d48dd86.nq.gz",
+        "blob/2c7fb76a5b11645bac5f0883ca452e5bf80af114.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
